@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+.profile-image {
+  width: 300px;
+  height: auto;
+  border: 3px solid #fff;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+}
